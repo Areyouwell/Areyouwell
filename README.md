@@ -1,6 +1,6 @@
 # Hi I'm Kirill👋
-## Junior backend developer from Russia.
-### I work in technology stack: C#, .NET Core, ASP.NET MVC, EF Core, MSSQL, HTML/CSS, JS
+## Middle backend developer from Russia.
+### I work in technology stack: C#, .NET Core, ASP.NET MVC, EF Core, MSSQL
 ### Contact with me:
 - 📬 kliemienkov@gmail.com
 - 💬 Telegram @Areyouwell
